@@ -4,21 +4,44 @@
 ## Comprendre la démarche agile
 
 > Documentation :
-> areyouagile.com
-> scrumguides.org
-> scrum.org
+> 
+> [areyouagile.com](areyouagile.com)
+> 
+> [scrumguides.org](scrumguides.org)
+> 
+> [scrum.org](scrum.org)
 
 ---
 
-## Piliers de l'agilité
+1. [Agile](#agile)
+    1. [4 Valeurs](#4-valeurs)
+    2. [Principes agile](#principes-agile)
+    3. [Les enjeux d'une entreprise](#les-enjeux-dune-entreprise)
+    4. [Les freins](#les-freins)
+    5. [La complexité](#la-complexité)
+    6. [Phénomènes émergents](#phénomènes-émergents)
+    7. [Carde de l'Auto Organisation](#carde-de-lauto-organisation)
+    8. [TAD Theorie de l'Auto Détermination (Motivation intrasec)](#tad-theorie-de-lauto-détermination-motivation-intrasec)
+    9. [Motivation (depuis le Management 3.0)](#motivation-depuis-le-management-30)
+    10. [Cycles de l'apprentissage](#cycles-de-lapprentissage)
+3. [Méthodes ou framework agile](#méthodes-ou-framework-agile)
+    1. [Kanban](#kanban)
+    2. [Scrum](#scrum)
+        1.  [Scrum - Rôles](#scrum---rôles)
+        2.  [Scrum - Artefact](#scrum---artefact)
+        3.  [Scrum - Timebox](#scrum---timebox)
+    4. [Lean startup](#lean-startup)
+5. [Références](#références)
+6. [Livres](#livres)
+
+## Agile
 
 2 principaux piliers :
 
 - **HUMAIN**
 - **SYSTEME COMPLEXE** (complexe et non compliqué)
 
-80 % de l'agile est du "mindset"
-20 % de process
+80 % de l'agile est du "mindset" - 20 % de process
 
 ### 4 Valeurs
 
@@ -28,9 +51,10 @@
 - Adaptation au changement > Suivi d'un plan
 
 Scrum/ XP -> Livrer de la valeur
+
 Kanban -> Optimisé le system
 
-### Principes agiles
+### Principes agile
 
 - Plus haute prorité est de satisfaire le client en livrant rapidement et régulièrement des fonctionnalités à **grande valeur ajouté** (Scrum particulièrement)
 - Livrer fréquemment un logiciel opérationnel avec des cycles de quelques semaines à quelques mois et une préférence pour les cycles plus courts
@@ -76,17 +100,17 @@ Les principes agiles sont là pour essayer de répondre aux enjeux de l'entrepri
 Ce sont des paradigmes
 
 (Paradigme -> Une vision/ facon de faire qui repose sur un fondement défini (matrice disciplinaire, modele theorique, courant de pensée))
+
 Un paradigme peu faire obstacle au changement
 
-Les différentes type de personnes résistants aux changement:
+Les différentes type de personnes plus ou moins resistant aux changements:
 
-Early adopters -> 5%
-Early majority -> 5%
-Majority -> 80%
-Late majority -> 5%
-Resistant -> 5%
+Early adopters -> 2.5%
+Early majority -> 34%
+Late majority -> 34%
+Ladgar -> 16%
 
----
+![adoption curve](https://images.squarespace-cdn.com/content/v1/59b0e1babce1769fc0fc7b6b/1537912142813-QAENXAVZM6WDLPKL2OI9/early-adopters.jpg?format=450w)
 
 ### La complexité
 
@@ -106,8 +130,8 @@ Difficultés:
 -> Systeme compliqué -> Découper pour constater (cibler le probleme) (Descartes)
 
 Experts:
-Edgar Morin (difficile à lire)
-Marc Halévy (facile à lire)
+- Edgar Morin (difficile à lire)
+- Marc Halévy (facile à lire)
 
 Un système complexe pour être pérain doit s'adapter
 
@@ -160,7 +184,16 @@ EMPIRISME:
 - Pouvoir (LeaderShip)
 - Relation social
 
-## Méthodes/ Framework Agile
+### Cycles de l'apprentissage
+
+> Je ne sais pas
+> |-> Je sais que je ne sais pas
+> |-> Je sais
+> |-> Je ne sais pas que je sais
+
+---
+
+## Méthodes ou framework agile
 
 ### Kanban
 
@@ -260,6 +293,8 @@ Fonctionner de façon itérative
 
 MVP -> itérer dessus
 
+---
+
 ## Références
 
 Projet Aristote :
@@ -280,6 +315,18 @@ Projet Aristote :
 >Loi Ashby -> Pour qu’un système « A » puisse contrôler (à la fois « surveiller » dans la signification française et « commander » dans la signification anglaise) un système « B », il faut et il suffit que la variété de « A » soit supérieure ou au moins égale à celle de « B »
 
 >Subsidiarité -> Principe de subsidiarité selon lequel une autorité centrale ne peut effectuer que les tâches qui ne peuvent pas être réalisées à l'échelon inférieur
+
+> [Macintosh (1984)](https://www.dropbox.com/s/82ia5x0rqighz38/Apple%20-%20The%20First%20Macintosh.mp4?dl=0)
+
+> [Rapport sur l’innovation en France](https://www.dropbox.com/s/lapn7sj0hm5rju1/Innovation_apport_beylat-tambourin.pdf?dl=0)
+
+> [Rapport sur le Burnout en France](https://www.dropbox.com/s/prjdgyq2yhqcuyy/Exe_Burnout_21-05-2015_version_internet.pdf?dl=0)
+
+> [Le bonheur au Travail](https://www.dropbox.com/s/b62gz2kvfc9shoj/Le%20Bonheur%20au%20Travail%2C%20Reportage%20ARTE%20a%20ne%20pas%20manquer.mp4?dl=0)
+
+> [Chaos Manifesto 2013](https://www.dropbox.com/s/jo3di5c6ol7ioe2/Chaos%20Manifesto%202013.pdf?dl=0)
+
+> [Une vidéo concernant la génération Y et Z](https://www.youtube.com/watch?v=gkdvEg1kwnY)
 
 >Little law
 
@@ -307,9 +354,19 @@ Projet Aristote :
 
 > **Lean startup**: Adoptez l'innovatio continue
 
-## Cycles de l'apprentissage
+> Product Mastery
 
-> Je ne sais pas
-> |-> Je sais que je ne sais pas
-> |-> Je sais
-> |-> Je ne sais pas que je sais
+> Product Ownership (English Edition)
+
+> Scrum en action
+
+> The Power of Scrum (English Edition)
+
+> Start with Why
+
+> Managez votre tribu
+
+> Plusieurs références intéressantes et liens vers des livres à lire :
+> [liens](https://www.scrum.org/Courses/Professional-Scrum-Product-Owner/PSPO-Subject-Areas)
+
+> [Scrum guides](https://scrumguides.org/index.html)
